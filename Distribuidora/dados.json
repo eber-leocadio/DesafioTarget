@@ -1,0 +1,22 @@
+[
+    {
+        "estado": "SP",
+        "faturamneto": 67836.43
+    },
+    {
+        "estado": "RJ",
+        "faturamneto": 36678.66
+    },
+    {
+        "estado": "MG",
+        "faturamneto": 29229.88
+    },
+    {
+        "estado": "ES",
+        "faturamneto": 27165.48
+    },
+    {
+        "estado": "Outros",
+        "faturamneto": 19849.53
+    }
+]
